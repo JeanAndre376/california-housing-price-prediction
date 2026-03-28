@@ -70,6 +70,7 @@ scikit-learn — modelling & evaluation
 - Tree-based models (XGBoost, Random Forest) → expected R² > 0.82
 - Spatial features (distance to coast, city centre)
 - External data (school ratings, crime rates)
-
+## Notebook
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange)](california_housing_analysis.ipynb)
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jean-fred-a-williama-36905315/)
