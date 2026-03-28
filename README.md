@@ -16,16 +16,16 @@ baseline Linear Regression to Polynomial + Lasso.
 | **Poly + Lasso** | **0.7090** | **0.7165** | **0.0266** | **90** |
 
 ## Model Comparison
-![KFold Validation](images/kfold_boxplot.png)
+![KFold Validation](kfold_boxplot.png)
 
 ## Actual vs Predicted
-![All Models](images/actual_vs_predicted.png)
+![All Models](actual_vs_predicted.png)
 
 ## Geographic Distribution
-![Geography](images/geographic_distribution.png)
+![Geography](geographic_distribution.png)
 
 ## Coefficients
-![Coefficients](images/coefficient_comparison.png)
+![Coefficients](coefficient_comparison.png)
 
 ## Key Findings
 - **Median income** is the strongest price predictor
